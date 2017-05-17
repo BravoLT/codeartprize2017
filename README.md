@@ -21,5 +21,6 @@ Credit for the problem you will be solving goes to [Project Euler](https://proje
 6. We will have voting to determine, of the code that works, which solutions inspire other attendees the most.
 
 ## Instructions For Running This Project
-> !!! Your instructions here !!!
-
+1. Install LOLCODE: http://lolcode.org/
+2. lci LOLEULER.LOL
+3. KTHX
