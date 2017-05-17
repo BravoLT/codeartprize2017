@@ -26,8 +26,8 @@ function numToWord(num)
     if (21 <= num && num < 30) return 'twenty ' + numToWord(num - 20);
     if (num == 30) return 'thirty';
     if (31 <= num && num < 40) return 'thirty ' + numToWord(num - 30);
-    if (num == 40) return 'fourty';
-    if (41 <= num && num < 50) return 'fourty ' + numToWord(num - 40);
+    if (num == 40) return 'forty';
+    if (41 <= num && num < 50) return 'forty ' + numToWord(num - 40);
     if (num == 50) return 'fifty';
     if (51 <= num && num < 60) return 'fifty ' + numToWord(num - 50);
     if (num == 60) return 'sixty';
