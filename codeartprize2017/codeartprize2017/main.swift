@@ -84,6 +84,7 @@ for currentNumber in 1...1000{
         
         sum += getWrittenNumbersLenght(number: hundreds)
         sum += getWrittenNumbersLenght(number: 100)
+        sum += 3
         sum += getWrittenNumbersLenght(number: tens)
         sum += getWrittenNumbersLenght(number: units)
     } else if  currentNumberArray.count == 4{
