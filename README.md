@@ -23,3 +23,8 @@ Credit for the problem you will be solving goes to [Project Euler](https://proje
 ## Instructions For Running This Project
 > !!! Your instructions here !!!
 
+1. execute _mvn package_
+2. execute _mvn exec:java_
+3. See result in console stating _'Result: 21...'_
+
+
