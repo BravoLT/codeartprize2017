@@ -21,5 +21,12 @@ Credit for the problem you will be solving goes to [Project Euler](https://proje
 6. We will have voting to determine, of the code that works, which solutions inspire other attendees the most.
 
 ## Instructions For Running This Project
-> !!! Your instructions here !!!
+> Get dependencies: go get
+> Build: go build
+> Test: go test
+> Usage: ./codeartprize2017 --help
+> Run: ./codeartprize2017
+>
+> Developed and tested on OSX with go version go1.8.1 darwin/amd64
+> Help on goland commands: https://golang.org/cmd/go/
 
