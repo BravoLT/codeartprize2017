@@ -13,7 +13,7 @@ LARGE_NUMBERS = ['thousand', 'million', 'billion', 'trillion', 'quadrillion']
 
 def count_letters(n):
   sum = 0
-  for i in range(1, n):
+  for i in range(1, n + 1):
     string = english_int(i).replace(" ", "")
     sum += len(string)
   return sum
